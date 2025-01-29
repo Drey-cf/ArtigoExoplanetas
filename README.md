@@ -1,8 +1,16 @@
-<h1>Portfólio de Ciência de Dados</h1>
+<h1 align = 'center'>Portfólio de Ciência de Dados</h1>
 
 <h2>Sobre</h2>
 
-<p>Projetos que com o objetivo de desenvolver minhas habilidades e conhecimentos na área de dados. Este repositório contêm meus projetos de Ciência de dados que realizei até momento. Um deles foi deito durante meu tcc, onde trabalhei com dados de exoplanetas. O outro notebook foi feito durante um bootcamp de ciencia de dados e foi desenvolvido com meu grupo de resolução de problemas da empresa Finor. Os dados são das principais commodities trocadas entre Brasil e outros países e fazemos a análise de quais são as principais commodities e os principais países parceiros do Brasil</p>
+<p>Este repositório contêm meus projetos de Ciência de dados que realizei até momento. Um deles foi deito durante meu tcc, onde trabalhei com dados de exoplanetas. O outro notebook foi feito durante um bootcamp de ciencia de dados e foi desenvolvido com meu grupo de resolução de problemas da empresa Finor. Os dados são das principais commodities trocadas entre Brasil e outros países e fazemos a análise de quais são as principais commodities e os principais países parceiros do Brasil</p>
+
+## Status
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
+## :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: desenvolver minhas habilidades e conhecimentos na área de dados
+- `Funcionalidade 2`: apresentar meus projetos e habilidades com a linguagem Python na Ciência de Dados
 
 ## Languages e Tools 💻
 <div style="display: inline">
